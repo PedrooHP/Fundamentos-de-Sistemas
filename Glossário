@@ -3,5 +3,22 @@ Termos e significados:
 API
 FrameWork
 
+Categorias de Sistemas de informação:
+  CRM: Gestão do relacionamento com os clientes, automatizam todas as funções relativas ao contato com os clientes, permitindo que as organizações coletem e armazenem os dados 
+      de contato, as preferências dos clientes, o histórico de compras deles etc.
+      Por exemplo, quando uma pessoa compra um livro de tal genêro, o sistema armazena essa informação do cliente e começa a recomendar outros livros do mesmo gênero.
+
+  ERP: Planejamento de recursos de empresas, são softwares que integram diferentes processos e dados da empresa, reunindo-os em apenas um local. O objetivo é o gerenciamento, 
+      por exemplo, o estoque de um item, quando se tem uma venda, o sistema vai alertar que o item foi vendido e se está em falta no estoque.
+
+  SIG: Sistema de Informação Geográfica, Analisam dados espaciais e geográficos, permitindo a visualização e a análise de informações geograficamente referenciadas.
+      Um grande exemplo é o google maps que nos permite ver locais.
+
+  SCM: Gestão da cadeia de fornecimento, O objetivo do SCM é otimizar a eficiência das operações, reduzir custos, melhorar o atendimento ao cliente e assegurar que os produtos
+      cheguem ao mercado de forma eficiente. Por exemplo a Amazon, eles tem um sistema desses para rastrearem a localização do produto.
+
+  TPS: Sistema de Processamento de Transações, processa e registra transações financeiras em tempo real, como transferências, pagamentos de boletos, depósitos e retiradas.
+      Por exemplo o Nubank, no momento que ocorre alguma transação, ele já registra e fornece os dados.
+
 Github - Servidor para reposótirios de códigos(git)
 Git - são códigos, que podem estar em diferentes máquinas e que formam projetos
