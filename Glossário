@@ -5,6 +5,34 @@ FrameWork
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+                                                                    Iot (internet of things)
+
+Sistemas Pervasivos: são redes de sensores e dispositivos que estão presentes em vários ambientes e interagem entre si. Eles podem ser usados em diferentes áreas, 
+como saúde, meio ambiente, gestão de energia e resgate
+
+  Características:
+    São sistemas móveis que podem detectar o ambiente físico e adaptar o seu comportamento 
+    São sistemas distribuídos, ou seja, utilizam recursos computacionais em vários pontos centrais de computação diferentes 
+    São sistemas que suportam a computação pervasiva, permitindo a conectividade contínua entre dispositivos e sistemas 
+
+  Exemplo:
+    Os Ipad, tablets, tv's, geladeiras. Compõe todos os aparelhos que compõem um sistema domésticos de uma casa e são ligados a um únicos sistema distribuído, 
+    que mais comumente é um modem roteador que dará acesso a rede
+
+Sistemas Ubiquos: são sistemas que integram tecnologias no dia a dia das pessoas, de forma onipresente. Também são conhecidos como computação ubíqua, 
+Ubicomp ou computação pervasiva. 
+
+  Características:
+    São interoperáveis, ou seja, podem se comunicar e colaborar entre si, independentemente de fabricante ou plataforma 
+    Baseiam-se em equipamentos eletrônicos, sensores e a nuvem 
+    São projetados para tornar a vida dos usuários mais simples 
+    São diferentes dos sistemas computacionais tradicionais, pois têm diversas interfaces 
+
+  Exemplo:
+    A computação ubíqua está presente no dia a dia através de diversos sistemas, como aplicativos, dispositivos móveis e casas inteligente, um grande que pode ser citado é
+    o carro tesla, que é totalmente automatizado
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
                                                                   Modelos de computação por nuvem
 
 SaaS (Software como Serviço): Softwares baseados na nuvem acessíveis via navegador, sem necessidade de instalação local. Usuários pagam por assinatura ou uso. 
