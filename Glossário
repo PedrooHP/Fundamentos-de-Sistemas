@@ -3,7 +3,39 @@ Termos e significados:
 API
 FrameWork
 
-Categorias de Sistemas de informação:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                  Modelos de computação por nuvem
+
+SaaS (Software como Serviço): Softwares baseados na nuvem acessíveis via navegador, sem necessidade de instalação local. Usuários pagam por assinatura ou uso. 
+Por exemplo, os pacotes offices podem ser acessados por navegador através da nuvem
+
+IaaS (Infraestrutura como Serviço): É a disponibilidade sob demanda de recursos de computação altamente escalonáveis como serviços pela Internet. 
+Ela elimina a necessidade de as empresas adquirirem, configurarem ou gerenciarem a infraestrutura, assim elas pagarão apenas pelo que usarem. 
+Um exemplo de serviço de IaaS é o Amazon EC2, que permite criar máquinas virtuais em vários centros de dados. O usuário pode personalizar as instâncias de acordo com suas 
+necessidades
+
+FaaS (Function as a Service): Um modelo de computação sem servidor onde os desenvolvedores executam funções específicas sem gerenciar infraestrutura. 
+Ideal para automação, microsserviços e eventos em tempo real. Um exemplo é a AWS Lambda, executa código sob demanda em resposta a eventos, como alterações em bancos de dados
+ou uploads de arquivos, cobrando apenas pelo tempo de execução.
+
+BaaS (Backend as a Service): Fornece infraestrutura backend gerenciada, incluindo autenticação, bancos de dados e armazenamento, permitindo que desenvolvedores foquem
+no frontend. Por exemplo o Fire base da google, a plataforma que oferece banco de dados em tempo real, autenticação de usuários e notificações push para aplicativos móveis
+e web.
+
+HaaS (Hardware as a Service): Fornece hardware sob demanda, como servidores físicos, armazenamento e dispositivos de rede, permitindo que empresas aluguem em vez de 
+comprar equipamentos. Ele é similar ao aluguel de um carro, por exemplo, HPE GreenLake,  que disponibiliza infraestrutura de TI (servidores, armazenamento e redes) 
+como serviço, cobrando pelo uso e oferecendo suporte gerenciado.
+
+PaaS (Platform as a Service): É um modelo de serviço de computação em nuvem que permite desenvolver, implantar, executar e gerenciar aplicativos. 
+O utilizador compra o acesso por utilização a tudo o que precisa para criar apps personalizados. 
+Exemplo: Google App Engine, plataforma para criação de aplicativos sem gerenciar servidores.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                          Categorias de Sistemas de informação:
+
+
   CRM: Gestão do relacionamento com os clientes, automatizam todas as funções relativas ao contato com os clientes, permitindo que as organizações coletem e armazenem os dados 
       de contato, as preferências dos clientes, o histórico de compras deles etc.
       Por exemplo, quando uma pessoa compra um livro de tal genêro, o sistema armazena essa informação do cliente e começa a recomendar outros livros do mesmo gênero.
@@ -19,6 +51,8 @@ Categorias de Sistemas de informação:
 
   TPS: Sistema de Processamento de Transações, processa e registra transações financeiras em tempo real, como transferências, pagamentos de boletos, depósitos e retiradas.
       Por exemplo o Nubank, no momento que ocorre alguma transação, ele já registra e fornece os dados.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Github - Servidor para reposótirios de códigos(git)
 Git - são códigos, que podem estar em diferentes máquinas e que formam projetos
