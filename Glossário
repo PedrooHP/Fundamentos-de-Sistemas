@@ -3,6 +3,33 @@ Termos e significados:
 API
 FrameWork
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                    Modelo TCP/IP em IoT
+
+Ele serve para fazer conectividade entre aparelhos, permitindo a conexão entre eles, ele é quem define com os dados serão enviados e recebidos entre os aparelhos.
+O modelo TCP/IP pode ser dividido entre 4 camadas:
+
+  •Camada de aplicativo: Lida com a comunicação entre aplicativos, como navegadores da Web e clientes de email.
+
+  •Camada de transporte: Garante a entrega de dados confiável e ordenada, usando protocolos como TCP (Protocolo de Controle de Transmissão) 
+  e UDP (Protocolo de Datagrama do Usuário).
+
+  •Camada de Internet: Roteia pacotes de dados entre redes, usando protocolos como IP (Protocolo de Internet) e ICMP (Protocolo de mensagem de controle da Internet).
+
+  •Camada de acesso à rede: Conecta os dispositivos à mídia física, como cabos Ethernet e sinais Wi-Fi.
+
+O modelo TCP/IP tem uma tecnologia chamada interoperabilidade que permite que os dispositivos IoT se comuniquem entre si e com a nuvem, 
+independentemente de seu hardware, software ou arquitetura de rede. Além disso, o TCP/IP pode lidar com um grande número de dispositivos IoT e tráfego de dados 
+usando técnicas como sub-rede, roteamento e endereçamento.
+
+Para usar TCP/IP para dispositivos IoT, você precisa conectá-los à rede e atribuir endereços IP. Você também deve configurar os parâmetros e preferências dos 
+dispositivos IoT, como nome do dispositivo e senha. Além disso, você precisa gerenciar os dispositivos IoT monitorando seu status, desempenho e dados. 
+Isso pode ser feito com plataformas de nuvem, painéis, APIs
+
+O principal desafio do TCP/IP em IoT seria na questão de segurança, podendo haver falsificação de IP, falsificação ARP que mapeia o endereço IP e manda para um hardware físico
+podendo levar a perda de dados, além de ataque DoS, que podem ser prejudiciais à rede, ao servidor, ao site ou a outros sistemas de uma organização, 
+causando atrasos ou até mesmo o desligamento, impedindo assim o acesso a sistemas e usuários legítimos.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
                                                                     Iot (internet of things)
