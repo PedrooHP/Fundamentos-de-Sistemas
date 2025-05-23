@@ -2,13 +2,15 @@
 
 O que é?
 
-Criptografia é uma técnica de segurança que transforma informações legíveis (texto claro) em dados codificados (texto cifrado), de forma que apenas pessoas autorizadas consigam interpretá-los. Ela se baseia em algoritmos matemáticos para proteger dados contra acessos não autorizados.
+Criptografia é uma técnica de segurança que transforma informações legíveis (texto claro) em dados codificados (texto cifrado), de forma que apenas pessoas autorizadas consigam interpretá-los. 
+Ela se baseia em algoritmos matemáticos para proteger dados contra acessos não autorizados.
 
 ---
 
 Para que serve?
 
-A criptografia serve para garantir a confidencialidade, a integridade, a autenticidade e a não-repudiação das informações. É utilizada para proteger comunicações, armazenar dados sensíveis com segurança e prevenir fraudes ou vazamentos de informação.
+A criptografia serve para garantir a confidencialidade, a integridade, a autenticidade e a não-repudiação das informações. 
+É utilizada para proteger comunicações, armazenar dados sensíveis com segurança e prevenir fraudes ou vazamentos de informação.
 
 ---
 
