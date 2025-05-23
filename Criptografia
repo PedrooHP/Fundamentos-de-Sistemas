@@ -1,0 +1,74 @@
+                    Criptografia
+
+O que é?
+
+Criptografia é uma técnica de segurança que transforma informações legíveis (texto claro) em dados codificados (texto cifrado), de forma que apenas pessoas autorizadas consigam interpretá-los. Ela se baseia em algoritmos matemáticos para proteger dados contra acessos não autorizados.
+
+---
+
+Para que serve?
+
+A criptografia serve para garantir a confidencialidade, a integridade, a autenticidade e a não-repudiação das informações. É utilizada para proteger comunicações, armazenar dados sensíveis com segurança e prevenir fraudes ou vazamentos de informação.
+
+---
+
+Quando usar?
+
+Deve ser usada sempre que houver necessidade de proteger dados contra interceptações ou alterações. Exemplos comuns incluem:
+
+* Transações bancárias online
+* Armazenamento de senhas
+* Troca de mensagens em aplicativos
+* Assinaturas digitais
+* Certificados SSL/TLS para sites
+
+---
+
+Tipos de Criptografia
+
+1. Criptografia Simétrica:
+   Utiliza a mesma chave para criptografar e descriptografar a informação. É rápida, mas requer que a chave seja compartilhada de maneira segura.
+
+2. Criptografia Assimétrica:
+   Utiliza um par de chaves: uma pública (para criptografar) e uma privada (para descriptografar). Proporciona maior segurança para o compartilhamento de informações, mas é mais lenta.
+
+3. Criptografia de Hash:
+   Converte dados de entrada em um valor fixo (hash). Não permite descriptografia, mas é muito usada para verificar integridade (por exemplo, no armazenamento de senhas).
+
+---
+
+Chave Simétrica vs Chave Assimétrica
+
+Chave Simétrica:
+
+  * Mesma chave para cifrar e decifrar.
+  * Mais rápida e eficiente.
+  * Dificuldade na distribuição segura da chave.
+  * Exemplo: AES.
+
+Chave Assimétrica:
+
+  * Par de chaves: pública e privada.
+  * Mais segura para troca de chaves.
+  * Mais lenta e consome mais recursos.
+  * Exemplo: RSA.
+
+---
+
+Principais Algoritmos de Criptografia
+
+Simétricos:
+
+* AES (Advanced Encryption Standard):** Padrão atual para criptografia de dados, muito seguro e eficiente.
+* DES (Data Encryption Standard):** Antigo padrão, atualmente considerado inseguro.
+* 3DES (Triple DES):** Versão aprimorada do DES, mas também obsoleta frente ao AES.
+
+Assimétricos:
+
+* RSA (Rivest-Shamir-Adleman):** Um dos mais usados para troca de chaves e assinaturas digitais.
+* ECC (Elliptic Curve Cryptography):** Oferece alta segurança com chaves menores, ideal para dispositivos com recursos limitados.
+
+Hash:
+
+SHA-256 (Secure Hash Algorithm): Muito utilizado para verificar integridade de dados.
+MD5: Antigamente popular, mas hoje considerado vulnerável.
